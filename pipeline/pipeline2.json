@@ -12,7 +12,7 @@
 				}
 			},
 			{
-				"name": "Copy Data1",
+				"name": "CSVfromBlobToSQLServerTable",
 				"type": "Copy",
 				"dependsOn": [
 					{
@@ -173,13 +173,13 @@
 				},
 				"inputs": [
 					{
-						"referenceName": "SampleCSV",
+						"referenceName": "SampleCSVFromBlob",
 						"type": "DatasetReference"
 					}
 				],
 				"outputs": [
 					{
-						"referenceName": "AzureSqlTable1",
+						"referenceName": "AzureSQLServerSampleTable",
 						"type": "DatasetReference"
 					}
 				]
