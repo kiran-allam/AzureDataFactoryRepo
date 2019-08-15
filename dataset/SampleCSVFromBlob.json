@@ -20,39 +20,51 @@
 		},
 		"schema": [
 			{
+				"name": "All Day Event",
 				"type": "String"
 			},
 			{
+				"name": "No End Time",
 				"type": "String"
 			},
 			{
+				"name": "Event Description",
 				"type": "String"
 			},
 			{
+				"name": "Contact ",
 				"type": "String"
 			},
 			{
+				"name": "Contact Email",
 				"type": "String"
 			},
 			{
+				"name": "Contact Phone",
 				"type": "String"
 			},
 			{
+				"name": "Location",
 				"type": "String"
 			},
 			{
+				"name": "Category",
 				"type": "String"
 			},
 			{
+				"name": "Mandatory",
 				"type": "String"
 			},
 			{
+				"name": "Registration",
 				"type": "String"
 			},
 			{
+				"name": "Maximum",
 				"type": "String"
 			},
 			{
+				"name": "Last Date To Register",
 				"type": "String"
 			}
 		]
