@@ -79,12 +79,6 @@
 								}
 							},
 							{
-								"sink": {
-									"name": "Contact",
-									"type": "String"
-								}
-							},
-							{
 								"source": {
 									"name": "Contact Email",
 									"type": "String"
