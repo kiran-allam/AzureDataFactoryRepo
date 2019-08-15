@@ -1,5 +1,5 @@
 {
-	"name": "SampleCSV",
+	"name": "SampleCSVFromBlob",
 	"properties": {
 		"linkedServiceName": {
 			"referenceName": "AzureDataLakeStorage1",
