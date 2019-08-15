@@ -50,8 +50,8 @@
 						"mappings": [
 							{
 								"source": {
-									"type": "String",
-									"ordinal": 1
+									"name": "All Day Event",
+									"type": "String"
 								},
 								"sink": {
 									"name": "All Day Event",
@@ -60,8 +60,8 @@
 							},
 							{
 								"source": {
-									"type": "String",
-									"ordinal": 2
+									"name": "No End Time",
+									"type": "String"
 								},
 								"sink": {
 									"name": "No End Time",
@@ -70,8 +70,8 @@
 							},
 							{
 								"source": {
-									"type": "String",
-									"ordinal": 3
+									"name": "Event Description",
+									"type": "String"
 								},
 								"sink": {
 									"name": "Event Description",
@@ -80,18 +80,8 @@
 							},
 							{
 								"source": {
-									"type": "String",
-									"ordinal": 4
-								},
-								"sink": {
-									"name": "Contact",
+									"name": "Contact Email",
 									"type": "String"
-								}
-							},
-							{
-								"source": {
-									"type": "String",
-									"ordinal": 5
 								},
 								"sink": {
 									"name": "Contact Email",
@@ -100,8 +90,8 @@
 							},
 							{
 								"source": {
-									"type": "String",
-									"ordinal": 6
+									"name": "Contact Phone",
+									"type": "String"
 								},
 								"sink": {
 									"name": "Contact Phone",
@@ -110,8 +100,8 @@
 							},
 							{
 								"source": {
-									"type": "String",
-									"ordinal": 7
+									"name": "Location",
+									"type": "String"
 								},
 								"sink": {
 									"name": "Location",
@@ -120,8 +110,8 @@
 							},
 							{
 								"source": {
-									"type": "String",
-									"ordinal": 8
+									"name": "Category",
+									"type": "String"
 								},
 								"sink": {
 									"name": "Category",
@@ -130,8 +120,8 @@
 							},
 							{
 								"source": {
-									"type": "String",
-									"ordinal": 9
+									"name": "Mandatory",
+									"type": "String"
 								},
 								"sink": {
 									"name": "Mandatory",
@@ -140,8 +130,8 @@
 							},
 							{
 								"source": {
-									"type": "String",
-									"ordinal": 10
+									"name": "Registration",
+									"type": "String"
 								},
 								"sink": {
 									"name": "Registration",
@@ -150,8 +140,8 @@
 							},
 							{
 								"source": {
-									"type": "String",
-									"ordinal": 11
+									"name": "Maximum",
+									"type": "String"
 								},
 								"sink": {
 									"name": "Maximum",
@@ -160,8 +150,8 @@
 							},
 							{
 								"source": {
-									"type": "String",
-									"ordinal": 12
+									"name": "Last Date To Register",
+									"type": "String"
 								},
 								"sink": {
 									"name": "Last Date To Register",
