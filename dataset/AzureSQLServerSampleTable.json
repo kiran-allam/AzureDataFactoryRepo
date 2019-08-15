@@ -7,7 +7,56 @@
 		},
 		"annotations": [],
 		"type": "AzureSqlTable",
-		"schema": [],
+		"schema": [
+			{
+				"name": "All Day Event",
+				"type": "varchar"
+			},
+			{
+				"name": "No End Time",
+				"type": "varchar"
+			},
+			{
+				"name": "Event Description",
+				"type": "varchar"
+			},
+			{
+				"name": "Contact",
+				"type": "varchar"
+			},
+			{
+				"name": "Contact Email",
+				"type": "varchar"
+			},
+			{
+				"name": "Contact Phone",
+				"type": "varchar"
+			},
+			{
+				"name": "Location",
+				"type": "varchar"
+			},
+			{
+				"name": "Category",
+				"type": "varchar"
+			},
+			{
+				"name": "Mandatory",
+				"type": "varchar"
+			},
+			{
+				"name": "Registration",
+				"type": "varchar"
+			},
+			{
+				"name": "Maximum",
+				"type": "varchar"
+			},
+			{
+				"name": "Last Date To Register",
+				"type": "varchar"
+			}
+		],
 		"typeProperties": {
 			"schema": "dbo",
 			"table": "SampleTable"
